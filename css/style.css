@@ -1,0 +1,57 @@
+
+.nav{
+background-color: brown;
+height: 60px;
+position: static;
+
+}
+
+.nav-li{
+    display: inline-block;
+    color: beige;
+    margin: 20px;
+
+}
+
+.container{
+    background-color: rgb(125, 122, 122);
+    height: 90vh;
+    width: 100%;
+    position: static;
+    opacity: 50%;
+    padding: 100px;
+}
+
+.footer{
+    background-color: brown;
+    height: 60px;
+    position: static;
+    color: beige;
+}
+
+
+.link{
+    padding: 5px;
+    color: beige;
+  
+}
+
+.p{
+    padding: 5px;
+}
+
+.span{
+
+    padding: 5px;
+}
+
+
+.box{
+    height: 500px;
+    width: 250px;
+    color: rgba(87, 255, 244, 0.54);
+    border-radius: 5px;
+    border: 1px solid beige;
+    margin: 0 auto;
+
+}
